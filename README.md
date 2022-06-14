@@ -10,3 +10,5 @@ git clone <this-repo>
 npm install
 npm run dev
 ```
+
+fork of [fireships repo](https://github.com/fireship-io/threejs-scroll-animation-demo)
